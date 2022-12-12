@@ -1,6 +1,6 @@
 # Prediction-Prix-Airbnb
 
-## introduction
+## Introduction
 
 Ce programme à deux objectifs. le premier est de pouvoir déterminer un prix approprié à un logement et le second est de déterminer la caractéristique et la valeur de k permttant de prédir avec le plus de précision le prix d'un logement.
 
